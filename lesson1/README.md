@@ -10,10 +10,10 @@ Agile
 # Agile/Scrum Concepts
 
 
-##User Story     
+## User Story     
     -Story Points Estimations  
     
-##Roles  
+## Roles  
       -Scrum Master  
     -Developers  
     -Testers  
@@ -21,17 +21,17 @@ Agile
     -Business Aanalyst  
     -Architecs  
     
-##Ceremonies  
+## Ceremonies  
     -Es  
     -Sprints  
     -Daily Standup  
     -Demo  
     -Retrospectiva  
     
-##Tools  
+## Tools  
     -Jira  
     
-##Commit a file     
+## Commit a file     
 	-git status  
 	-git add lesson1  
 	-git add lesson1/README.md  
