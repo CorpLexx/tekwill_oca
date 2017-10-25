@@ -11,26 +11,26 @@ Agile
 
 
 ##User Story     
-    Story Points Estimations
-##Roles
-    Scrum Master
-    Developers
-    Testers
-    Deploy Engineers
-    Business Aanalyst
-    Architecs
-##Ceremonies
-    Es
-    Sprints
-    Daily Standup
-    Demo
-    Retrospectiva
-##Tools
-    Jira
+    Story Points Estimations  
+##Roles  
+    Scrum Master  
+    Developers  
+    Testers  
+    Deploy Engineers  
+    Business Aanalyst  
+    Architecs  
+##Ceremonies  
+    Es  
+    Sprints  
+    Daily Standup  
+    Demo  
+    Retrospectiva  
+##Tools  
+    Jira  
     
-## Commit a file   
-git status
-git add lesson1
-git add lesson1/README.md
-git commit -am "Mesaj"
-git push origin master
+## Commit a file     
+git status  
+git add lesson1  
+git add lesson1/README.md  
+git commit -am "Mesaj"  
+git push origin master  
