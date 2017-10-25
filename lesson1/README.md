@@ -27,7 +27,7 @@ Agile
     -Retrospectiva  
 ##Tools  
     -Jira  
-## Commit a file     
+##Commit a file     
 	-git status  
 	-git add lesson1  
 	-git add lesson1/README.md  
