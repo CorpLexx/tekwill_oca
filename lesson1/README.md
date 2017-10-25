@@ -12,6 +12,7 @@ Agile
 
 ##User Story     
     -Story Points Estimations  
+    
 ##Roles  
       -Scrum Master  
     -Developers  
@@ -19,14 +20,17 @@ Agile
     -Deploy Engineers  
     -Business Aanalyst  
     -Architecs  
+    
 ##Ceremonies  
     -Es  
     -Sprints  
     -Daily Standup  
     -Demo  
     -Retrospectiva  
+    
 ##Tools  
     -Jira  
+    
 ##Commit a file     
 	-git status  
 	-git add lesson1  
