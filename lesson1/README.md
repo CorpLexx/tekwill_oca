@@ -13,7 +13,7 @@ Agile
 ##User Story     
     -Story Points Estimations  
 ##Roles  
-    -Scrum Master  
+      -Scrum Master  
     -Developers  
     -Testers  
     -Deploy Engineers  
