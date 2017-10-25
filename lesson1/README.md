@@ -14,7 +14,7 @@ Agile
     -Story Points Estimations  
     
 ## Roles  
-      -Scrum Master  
+	-Scrum Master  
     -Developers  
     -Testers  
     -Deploy Engineers  
@@ -32,8 +32,8 @@ Agile
     -Jira  
     
 ## Commit a file     
-	-git status  
-	-git add lesson1  
+	git status  
+	git add lesson1  
 	-git add lesson1/README.md  
 	-git commit -am "Mesaj"  
 	-git push origin master  
