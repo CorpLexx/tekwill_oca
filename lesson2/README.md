@@ -22,10 +22,11 @@
 ### Product Owner
 ### Scrum Master 
 	https://www.youtube.com/watch?v=oheekef7oJk
+	
 ### Developers
 ### Testers
 ### Deploy Engineers
-### Business Aanalyst
+### Business Analyst
 ### Architecs
 ## Ceremonies
 ### Sprint Planning
