@@ -1,0 +1,19 @@
+Roles
+
+	Administrator
+	UserAnonim
+
+UserStories
+
+	S1
+		As Administrator I want to see the list of routes 
+
+	S2
+		As Administrator I want to add/update routes 
+		
+	S3 	
+		As UserAnonim I want to view the routes
+
+	S4	
+		As UserAnonim I want to search the routes
+		
