@@ -2,7 +2,7 @@ public class ManipulatingNumbers {
     public static void main(String[] args) {
         String custName = "Jora";
         int quantity = 3;
-        String custItem = " wants to by " + quantity +" potatoes.";
+        String custItem = " wants to buy " + quantity +" potatoes.";
         String message = custName + custItem;
 
         double price = 10.0;
