@@ -12,5 +12,9 @@ public class ManipulatingNumbers {
 
         System.out.println(message);
         System.out.println("Total cost with tax is " + total + "$");
+
+        int one = 0x413;
+        int two = 2;
+        System.out.println(one + two);
     }
 }
