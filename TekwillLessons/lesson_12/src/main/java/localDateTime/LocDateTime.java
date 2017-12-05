@@ -1,6 +1,9 @@
-package localDateTime.localDateTime;
+package localDateTime;
 
+import java.time.LocalDate;
+import java.time.chrono.JapaneseDate;
 import java.time.format.DateTimeFormatter;
+import java.time.format.FormatStyle;
 import java.util.Arrays;
 
 public class LocDateTime {
@@ -24,5 +27,25 @@ public class LocDateTime {
             default:
                 System.err.println("Error args");
         }
+
+        LocalDate myDate = LocalDate.now();
+        JapaneseDate jDate = JapaneseDate.from(myDate);
+        System.out.println("Date now is: " + myDate);
+        System.out.println("Japanese date is: " + jDate);
+        LocalDate myNewDate = LocalDate.of(2017, 12, 22);
+        System.out.println(myNewDate);
+        System.out.println(myDate.minusDays(10));
+        String fDate = myDate.format(DateTimeFormatter.ofLocalizedDate(FormatStyle.FULL));
+        System.out.println(fDate);
+
+        for (int i = 0; i < 5; i++){
+            System.out.print(i + 1 + " ");
+            System.out.println(i);
+        }
+
+        Integer int1 = 1;
+        Integer int2 = 1;
+        System.out.println("hi".compareTo("Hi"));
+        System.out.println(int1.compareTo(int2));
     }
 }
