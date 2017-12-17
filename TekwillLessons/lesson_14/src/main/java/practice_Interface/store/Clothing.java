@@ -1,7 +1,4 @@
-package practice;
-
-import java.util.ArrayList;
-import java.util.List;
+package practice_Interface.store;
 
 public class Clothing {
     // fields given default values

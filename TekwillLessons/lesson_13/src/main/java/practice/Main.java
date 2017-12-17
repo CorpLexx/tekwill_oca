@@ -23,5 +23,23 @@ public class Main {
         System.out.println(shirt3.calculateShip());
         System.out.println(shirt4.calculateShip());
         System.out.println(shirt6.calculateShip());
+
+        // Polymorphism
+        Parent parent = new Parent();
+        Parent childA = new ChildA();
+        Parent childB = new ChildB();
+
+        List<Parent> parentList = new ArrayList<>();
+
+        parentList.add(parent);
+        parentList.add(childA);
+        parentList.add(childB);
+
+        for(Parent list : parentList){
+            System.out.println(list);
+            if (list instanceof ChildA){
+                System.out.println(((ChildA)list).doWork());
+            }
+        }
     }
 }
